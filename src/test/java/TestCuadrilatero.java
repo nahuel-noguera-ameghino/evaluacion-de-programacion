@@ -5,7 +5,7 @@ import org.junit.Test;
  * Created by damian on 20/05/16.
  */
 public class TestCuadrilatero {
-/*
+
 
     @Test
     public void crearCuadrilatero() {
@@ -57,7 +57,7 @@ public class TestCuadrilatero {
     }
 
     @Test
-    public void calcularArea() {
+    public void calculararea() {
         Punto esquinaInferiorIzquierda = new Punto(2, 2);
         Punto esquinaSuperiorDerecha = new Punto(4, 4);
 
@@ -80,7 +80,7 @@ public class TestCuadrilatero {
 
         Assert.assertEquals(200, cuadradado.area());
     }
-
+/*
     @Test
     public void estanIncluidosPuntos() {
         Punto esquinaInferiorIzquierda = new Punto(0, 0);
@@ -109,9 +109,9 @@ public class TestCuadrilatero {
         Assert.assertTrue(cuadradado.noEstaIncluido(p8));
         Assert.assertTrue(cuadradado.noEstaIncluido(p9));
     }
+/*
 
 
-*/
 
 
 }
