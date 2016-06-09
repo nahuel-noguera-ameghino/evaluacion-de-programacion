@@ -6,6 +6,7 @@ import org.junit.Test;
  */
 public class TestCuadrilatero {
 
+/*
 
     @Test
     public void crearCuadrilatero() {
@@ -80,7 +81,7 @@ public class TestCuadrilatero {
 
         Assert.assertEquals(200, cuadradado.area());
     }
-/*
+
     @Test
     public void estanIncluidosPuntos() {
         Punto esquinaInferiorIzquierda = new Punto(0, 0);
@@ -109,7 +110,8 @@ public class TestCuadrilatero {
         Assert.assertTrue(cuadradado.noEstaIncluido(p8));
         Assert.assertTrue(cuadradado.noEstaIncluido(p9));
     }
-/*
+
+*/
 
 
 

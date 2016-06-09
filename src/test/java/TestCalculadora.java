@@ -6,7 +6,7 @@ import org.junit.Test;
  */
 public class TestCalculadora {
 
-
+/*
 
 
     @Test
@@ -57,7 +57,7 @@ public class TestCalculadora {
     }
 
 
-
+*/
 
 
 }

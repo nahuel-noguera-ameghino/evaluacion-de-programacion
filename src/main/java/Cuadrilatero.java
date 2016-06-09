@@ -2,7 +2,7 @@
  * Created by damian on 20/05/16.
  */
 public class Cuadrilatero {
-
+/*
 
     public Punto esquinaInferiorIzquierda;
     public Punto esquinaSuperiorDerecha;
@@ -24,7 +24,17 @@ public class Cuadrilatero {
         return ladoX + ladoY;
     }
 
-    public void modificarTamañoDeVentana(Punto puntoAExtender) {
 
+    public void modificarTamañoDeVentana(Punto puntoAExtender) {
+        this.esquinaSuperiorDerecha+ puntoAExtender;
     }
+
+    public boolean estaIncluido(Punto p1) {
+        return
+    }
+
+    public boolean noEstaIncluido(Punto p7) {
+        return (p7.x > this.esquinaInferiorIzquierda.x) && (p7.y < this.esquinaInferiorIzquierda.y));
+    }
+    */
 }
